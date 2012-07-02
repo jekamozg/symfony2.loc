@@ -1,0 +1,11 @@
+CM\UserBundle\Entity\User:
+    type: entity
+    table: null
+    repositoryClass: CM\UserBundle\Entity\UserRepository
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    lifecycleCallbacks: {  }

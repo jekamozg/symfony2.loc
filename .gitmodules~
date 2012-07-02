@@ -1,0 +1,33 @@
+[submodule "vendor/bundles/RtxLabs/UserBundle"]
+	path = vendor/bundles/RtxLabs/UserBundle
+	url = https://github.com/RtxLabs/UserBundle.git
+[submodule "src/CM/SecurityBundle"]
+	path = src/CM/SecurityBundle
+	url = https://github.com/symfony/SecurityBundle.git
+[submodule "src/CM/UserBundle"]
+	path = src/CM/UserBundle
+	url = https://github.com/FriendsOfSymfony/FOSUserBundle.git
+[submodule "src/FOS/UserBundle"]
+	path = src/FOS/UserBundle
+	url = https://github.com/FriendsOfSymfony/FOSUserBundle.git
+[submodule "src/Knp/MenuBundle"]
+	path = src/Knp/MenuBundle
+	url = https://github.com/KnpLabs/KnpMenuBundle.git
+[submodule "src/Knp/Menu"]
+	path = src/Knp/Menu
+	url = https://github.com/KnpLabs/KnpMenu.git
+[submodule "src/Knp/Bundle/MenuBundle"]
+	path = src/Knp/Bundle/MenuBundle
+	url = https://github.com/KnpLabs/KnpMenuBundle.git
+[submodule "src/Knp/KnpMenu"]
+	path = src/Knp/KnpMenu
+	url = https://github.com/KnpLabs/KnpMenu.git
+[submodule "vendor/bundles/Knp/Bundle/MenuBundle"]
+	path = vendor/bundles/Knp/Bundle/MenuBundle
+	url = https://github.com/KnpLabs/KnpMenuBundle.git
+[submodule "vendor/KnpMenu"]
+	path = vendor/KnpMenu
+	url = https://github.com/KnpLabs/KnpMenu.git
+[submodule "vendor/bundles/FOS/UserBundle"]
+	path = vendor/bundles/FOS/UserBundle
+	url = https://github.com/FriendsOfSymfony/FOSUserBundle.git

@@ -1,0 +1,15 @@
+parameters:
+    database_driver:   pdo_mysql
+    database_host:     localhost
+    database_port:     3306
+    database_name:     symfony
+    database_user:     symfony
+    database_password: symfony
+
+    mailer_transport:  smtp
+    mailer_host:       localhost
+    mailer_user:       davydonv.evgeniy.ite@gmail.com
+    mailer_password:   jkdavid1989_&
+
+    locale:            en
+    secret:            12345
