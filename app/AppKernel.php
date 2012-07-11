@@ -24,6 +24,7 @@ class AppKernel extends Kernel
             new CM\ProjectBundle\CMProjectBundle(),
             new CM\ThemeBundle\CMThemeBundle(),
             new CM\UserBundle\CMUserBundle(),
+            new CM\DesktopBundle\CMDesktopBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

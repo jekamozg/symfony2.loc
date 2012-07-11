@@ -1,3 +1,7 @@
+CMDesktopBundle:
+    resource: "@CMDesktopBundle/Resources/config/routing.yml"
+    prefix:   /desktop
+
 CMUserBundle:
     resource: "@CMUserBundle/Resources/config/routing.yml"
     prefix:   /

@@ -1,0 +1,6 @@
+CMDesktopBundle_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CMDesktopBundle:Default:index }
+CMDesktopBundle_login:
+    pattern:  /login
+    defaults: { _controller: CMDesktopBundle:Default:login }
