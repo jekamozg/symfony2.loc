@@ -20,7 +20,7 @@
         "jms/di-extra-bundle": "1.0.*",
         "friendsofsymfony/user-bundle": "*"
 }
-    },
+    ,
     "scripts": {
         "post-install-cmd": [
             "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",

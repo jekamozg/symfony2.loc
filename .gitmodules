@@ -25,3 +25,9 @@
 [submodule "vendor/KnpMenu"]
 	path = vendor/KnpMenu
 	url = https://github.com/KnpLabs/KnpMenu.git
+[submodule "vendor/bundles/Sensio/Bundle/DistributionBundle"]
+	path = vendor/bundles/Sensio/Bundle/DistributionBundle
+	url = https://github.com/sensio/SensioDistributionBundle.git
+[submodule "vendor/friendsofsymfony/user-bundle/FOS/UserBundle"]
+	path = vendor/friendsofsymfony/user-bundle/FOS/UserBundle
+	url = https://github.com/FriendsOfSymfony/FOSUserBundle.git

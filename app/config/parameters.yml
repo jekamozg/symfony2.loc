@@ -4,7 +4,7 @@ parameters:
     database_port:     3306
     database_name:     symfony
     database_user:     symfony
-    database_password: symfony
+    database_password: symfony_pass
 
     mailer_transport:  smtp
     mailer_host:       localhost
