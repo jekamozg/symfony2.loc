@@ -1,7 +1,16 @@
 parameters:
 #    cm_user.example.class: CM\UserBundle\Example
 
+
 services:
+    cm_user.login.form.type:
+        class: CM\UserBundle\Form\Type\LoginFormType
+        arguments: [%fos_user.model.user.class%]
+        tags:
+            - { name: form.type, alias: cm_user_login }
+
+
+#services:
 #    cm_user.example:
 #        class: %cm_user.example.class%
 #        arguments: [@service_id, "plain_value", %parameter%]

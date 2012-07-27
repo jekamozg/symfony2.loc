@@ -1,6 +1,7 @@
 CMDesktopBundle:
     resource: "@CMDesktopBundle/Resources/config/routing.yml"
     prefix:   /desktop
+    defaults: { permanent: false }
 
 CMUserBundle:
     resource: "@CMUserBundle/Resources/config/routing.yml"
