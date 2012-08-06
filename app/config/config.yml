@@ -65,3 +65,8 @@ fos_user:
     user_class: CM\UserBundle\Entity\User
     group:
         group_class: CM\UserBundle\Entity\Role
+   
+   
+#    security:
+ #       form:
+  #          type: cm_user_login

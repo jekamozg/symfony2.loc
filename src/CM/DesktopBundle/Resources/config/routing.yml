@@ -4,3 +4,9 @@ CMDesktopBundle_homepage:
 CMDesktopBundle_login:
     pattern:  /login
     defaults: { _controller: CMDesktopBundle:Default:login }
+CMDesktopBundle_getProjects:
+    pattern:  /getProjects
+    defaults: { _controller: CMDesktopBundle:Default:getProjects }
+CMDesktopBundle_getTasks:
+    pattern:  /getTasks
+    defaults: { _controller: CMDesktopBundle:Default:getTasks }
